@@ -7,6 +7,10 @@
 [![pub version](https://img.shields.io/pub/v/drp_date_picker)](https://pub.dev/packages/drp_date_picker)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
+<p align="center">
+  <img src="example/screenshots/calendar.png" alt="drp_date_picker demo" width="420">
+</p>
+
 ---
 
 ## What is drp_date_picker?

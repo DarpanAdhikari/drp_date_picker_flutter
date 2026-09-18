@@ -1,0 +1,25 @@
+name: drp_date_picker
+description: >-
+  A native Flutter Nepali (Bikram Sambat / BS) + English (Gregorian / AD)
+  date picker with dual-calendar cells, BS<->AD conversion, holidays,
+  min/max, and form integration.
+version: 0.0.1
+homepage: https://github.com/DarpanAdhikari/drp_date_picker_flutter
+repository: https://github.com/DarpanAdhikari/drp_date_picker_flutter.git
+issue_tracker: https://github.com/DarpanAdhikari/drp_date_picker_flutter/issues
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
