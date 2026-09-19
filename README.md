@@ -1,17 +1,23 @@
 # drp_date_picker
 
-> A native Flutter **Nepali (Bikram Sambat / BS) + English (Gregorian / AD)** date picker.
-> Every day cell shows both calendars. BS ↔ AD conversion included, with holiday
-> support, min/max constraints, and form integration.
+### One date. Two calendars. Zero conversion hassle.
 
 [![pub version](https://img.shields.io/pub/v/drp_date_picker)](https://pub.dev/packages/drp_date_picker)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
-
 <p align="center">
   <img src="example/screenshots/calendar.png" alt="drp_date_picker demo" width="420">
 </p>
 
----
+Select a Nepali BS date and instantly see its
+Gregorian AD equivalent — or switch to AD-first mode.
+
+⭐ BS + AD in every calendar cell
+⭐ BS ↔ AD conversion
+⭐ Holidays & events
+⭐ Form validation
+⭐ No runtime dependencies
+
+flutter pub add drp_date_picker
 
 ## What is drp_date_picker?
 
